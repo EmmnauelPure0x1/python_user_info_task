@@ -1,8 +1,8 @@
 # User information input task
 
-**We have been tasked with creating an interactive questionnaire that will query the user for information.**
+- **We have been tasked with creating an interactive questionnaire that will query the user for information.**
 
-**We will be collecting the following information:**
+#### **We will be collecting the following information:**
 
 - First name, middle name, last name.
 
