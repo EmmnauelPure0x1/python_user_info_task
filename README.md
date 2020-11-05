@@ -18,4 +18,4 @@ We will be collecting the following information;
 
 - Age
 
-The code will need to print out the information, capitalized. 
+**The code will need to print out the information, and name capitalized.**

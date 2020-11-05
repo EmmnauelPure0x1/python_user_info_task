@@ -26,6 +26,7 @@ recent_edu = input("Latest place of education? > ")
 age = int(input("How old are you? > "))
 
 # All information printed in a statement using a print statement and f-string.
-print(f"{full_name}, your post code is {post_code}. Your NI number is {ni_num}. You are studying {sparta_course} at Sparta Global. \nYou last worked\studied at {recent_edu} and you are {age}.")
+statement = (f"{full_name}, your post code is {post_code}. Your NI number is {ni_num}. You are studying {sparta_course} at Sparta Global. \nYou last worked\studied at {recent_edu} and you are {age}.")
 
+print(statement)
 
